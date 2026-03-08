@@ -1,34 +1,25 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=WhyNotNarayan&label=Profile%20Views&color=0e76a8&style=flat-square" alt="views" />
-</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+digital+workshop;Where+Code+Meets+Creativity;I'm+Narayan+Ashok+Gawade;Full+Stack.+Web3.+IoT.+Security.;Let's+build+something+epic." alt="Typing SVG" />
-  <p> <br> </p>
-  <h3> <img src="URL_TO_YOUR_IMAGE" alt="Narayan's Profile Picture" width="100px" style="border-radius: 50%; box-shadow: 0 0 15px #00FF41; animation: pulse 2s infinite;"/> Narayan A. Gawade </h3>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web3+Enthusiast;IoT+Explorer" alt="Typing SVG" />
-</p>
-
----
-
-## 🧑‍💻 The Explorer's Journal
-I am a passionate software alchemist who loves to mix technologies. My days are spent exploring the digital realms between complex **Full Stack** applications, **Decentralized (Web3)** networks, and the physical world of **IoT and Embedded Systems**. My ultimate goal is to build secure, scalable, and intelligent systems.
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHh6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx6y9B0JMc/giphy.gif" width="150px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueHh6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx6y9B0JMc/giphy.gif" width="180px" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+Profile!;I'm+Narayan+Ashok+Gawade;Full+Stack.+Web3.+IoT.;Building+the+Future+of+Tech." alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Narayan" style="border-radius: 50%; border: 3px solid #00FF41; padding: 5px;" width="150px" />
+  <img src="YOUR_IMAGE_URL" alt="Narayan Ashok Gawade" style="border-radius: 50%; border: 3px solid #00FF41; padding: 5px;" width="150px" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧑‍💻 The Explorer's Journal
+I am **Narayan Ashok Gawade**, a full-stack developer and cybersecurity enthusiast with a deep love for the Internet of Things (IoT). I spend my time bridging the gap between hardware and software, from smart safety helmets to decentralized Web3 applications.
+
+- 🔭 **Working On:** Smart Water Monitoring & Advanced Safety Systems.
+- 🛡️ **Interests:** Cybersecurity, IoT Security, and Web3.
+- ⚡ **Fun Fact:** I'm also building an AI-assisted mystery YouTube channel!
+
+---
+
+## 🛠️ Tech Stack & Arsenal
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,8 +60,7 @@ I am a passionate software alchemist who loves to mix technologies. My days are 
 
 ---
 
-## 📊 My GitHub Journey
-
+## 📊 Statistics & Activity
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhyNotNarayan&show_icons=true&theme=radical&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyNotNarayan&layout=compact&theme=radical&hide_border=true" />
@@ -78,19 +68,19 @@ I am a passionate software alchemist who loves to mix technologies. My days are 
 
 ---
 
-## 🤝 Let's Connect & Create
-I'm always looking for innovative projects to contribute to and brilliant minds to collaborate with!
+## 🤝 Let's Collaborate!
+The digital frontier is built through collaboration. If you find my projects interesting or useful, I would love to see you get involved! 
 
-- 💡 **Interested in a project?** Open an issue or a PR, I'd love to see your ideas!
-- 👤 **Follow me** to stay updated on my IoT and Web3 adventures.
-- 💬 **Let's Talk:** [your-email@example.com](mailto:your-email@example.com)
+* **Follow Me:** Stay updated on my latest IoT and Full Stack experiments.
+* **Contribute:** Found a way to improve my code? Open a PR! I welcome all contributors.
+* **Star My Repos:** If you like a project, give it a star—it keeps me motivated to build more!
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=30&animation=fadeIn" width="100%"/>
   
-  <p><b>Your support keeps the code flowing! Don't forget to ⭐ my repositories and hit that <u>Follow</u> button.</b></p>
-
+  <p><b>Building the future, one commit at a time. 🚀</b></p>
+  
   <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
