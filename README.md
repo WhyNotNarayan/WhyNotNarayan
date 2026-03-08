@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHh6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx6y9B0JMc/giphy.gif" width="160px" />
+  <img src="Gemini_Generated_Image_foq4acfoq4acfoq4.png" width="160px" />
   
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00FF41&height=150&section=header&text=Narayan%20Ashok%20Gawade&fontSize=50&animation=fadeIn" width="100%"/>
 
