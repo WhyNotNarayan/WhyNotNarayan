@@ -16,105 +16,81 @@
 
 ## 🧑‍💻 The Explorer's Journal
 I am a passionate software alchemist who loves to mix technologies. My days are spent exploring the digital realms between complex **Full Stack** applications, **Decentralized (Web3)** networks, and the physical world of **IoT and Embedded Systems**. My ultimate goal is to build secure, scalable, and intelligent systems.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHh6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx6y9B0JMc/giphy.gif" width="150px" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+Profile!;I'm+Narayan+Ashok+Gawade;Full+Stack.+Web3.+IoT.;Building+the+Future+of+Tech." alt="Typing SVG" />
+</div>
 
-- 🔭 **Current Quest:** Leveling up on zero-knowledge proofs and advanced IoT security.
-- ⚡ **Fun Fact:** I've dissected more smart devices than I can count to see how they tick.
-- 📫 **How to reach me:** [narayangawade684@gmail.com](mailto:your-email@example.com) ---
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Narayan" style="border-radius: 50%; border: 3px solid #00FF41; padding: 5px;" width="150px" />
+</p>
 
-## 🛠️ The Arsenal (Interactive Icons)
-*Hover over the icons to see them come alive!*
+---
+
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
-<div align="left">
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/python.svg" alt="Python" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/javascript.svg" alt="JavaScript" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/typescript.svg" alt="TypeScript" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/html5.svg" alt="HTML5" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/css3.svg" alt="CSS3" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/cplusplus.svg" alt="C++" height="40" style="margin: 10px;"/>
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
-<div align="left">
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/react.svg" alt="React" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/nodejs.svg" alt="Node.js" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/bootstrap.svg" alt="Bootstrap" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/flutter.svg" alt="Flutter" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/electron.svg" alt="Electron" height="40" style="margin: 10px;"/>
-</div>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ### ☁️ Cloud & Backend
-<div align="left">
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/firebase.svg" alt="Firebase" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/googlecloud.svg" alt="Google Cloud" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/mysql.svg" alt="MySQL" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/mongodb.svg" alt="MongoDB" height="40" style="margin: 10px;"/>
-</div>
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔗 Blockchain & Web3
-<div align="left">
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/ethereum.svg" alt="Ethereum" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/solidity.svg" alt="Solidity" height="40" style="margin: 10px;"/>
-</div>
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.dot.js&logoColor=white)
 
 ### 🦾 Hardware & IoT
-<div align="left">
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/arduino.svg" alt="Arduino" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/raspberrypi.svg" alt="Raspberry Pi" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/esp32.svg" alt="ESP32" height="40" style="margin: 10px;"/>
-</div>
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-### 🛡️ Security & DevTools
-<div align="left">
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/git.svg" alt="Git" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/linux.svg" alt="Linux" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/vscode.svg" alt="VS Code" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/main/icons/docker.svg" alt="Docker" height="40" style="margin: 10px;"/>
-</div>
-
-<p> <br> </p>
+### 🛡️ Security & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📈 The Chronicle of Activity
+## 📊 My GitHub Journey
+
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhyNotNarayan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyNotNarayan&layout=compact&theme=radical&hide_border=false" />
-</p>
-
-#### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhyNotNarayan&theme=radical" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhyNotNarayan&show_icons=true&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyNotNarayan&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🌟 Blueprints in Action
-Here are a few of the epic things I've built. Check out the detailed repositories below!
+## 🤝 Let's Connect & Create
+I'm always looking for innovative projects to contribute to and brilliant minds to collaborate with!
 
-<p>
-  <a href="https://github.com/WhyNotNarayan/REPO_NAME" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhyNotNarayan&repo=REPO_NAME&theme=radical" alt="Project Pin" />
-  </a>
-  <a href="https://github.com/WhyNotNarayan/REPO_NAME_2" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhyNotNarayan&repo=REPO_NAME_2&theme=radical" alt="Project Pin" />
-  </a>
-</p>
-
----
-
-## 🤝 Let's Collaborate!
-The digital frontier is vast, and it’s better when we explore it together. I'm always open to talking about cool IoT projects, Web3 advancements, or just sharing development tips.
-
-### If you like what you see here:
-1.  **Follow me:** Stay updated on my latest releases and explorations.
-2.  **Contribute:** Found a bug? Have an idea? Let's build it together on my repositories.
-
-<p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="YOUR_TWITTER" /></a> <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="YOUR_LINKEDIN" /></a> <a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/WhyNotNarayan?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/WhyNotNarayan?label=Follow%20Me&style=for-the-badge&color=0e76a8" alt="Follow Me" /></a>
-</p>
+- 💡 **Interested in a project?** Open an issue or a PR, I'd love to see your ideas!
+- 👤 **Follow me** to stay updated on my IoT and Web3 adventures.
+- 💬 **Let's Talk:** [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
 <div align="center">
-  <h3>✨ Thanks for stopping by! The journey never ends. Let's keep building.</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=30&animation=fadeIn" width="100%"/>
+  
+  <p><b>Your support keeps the code flowing! Don't forget to ⭐ my repositories and hit that <u>Follow</u> button.</b></p>
+
   <img src="https://raw.githubusercontent.com/WhyNotNarayan/WhyNotNarayan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
